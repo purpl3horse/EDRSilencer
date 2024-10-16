@@ -71,6 +71,38 @@ char* edrProcess[] = {
     "TMBMSRV.exe",
     "CNTAoSMgr.exe",
     "TmCCSF.exe"
+// Symantec EDR and SEPM 
+    "sepWscSvc64.exe",
+    "SemLaunchSvc.exe",
+    "sesmcontinst.exe",
+    "ClientRemote.exe",
+    "LuCatalog.exe",
+    "LuCallbackProxy.exe",
+    "LuComServer_3_3.exe",
+    "dbisqlc.exe",
+    "dbsrv16.exe",
+    "semapisrv.exe",
+    "AutoExcl.exe",
+    "DoScan.exe",
+    "nlnhook.exe",
+    "SavUI.exe",
+    "SepLiveUpdate.exe",
+    "ccSvcHst.exe",
+    "Smc.exe",
+    "SmcGui.exe",
+    "SymCorpUI.exe",
+    "symerr.exe",
+    "DevViewer.exe",
+    "DWHWizrd.exe",
+    "RtvStart.exe",
+    "roru.exe",
+    "WSCSAvNotifier.exe",
+    "SemLaunchSvc.exe",
+    "SemSvc.exe",
+    "snac64.exe",
+    "httpd.exe",
+    "prunsrv.exe",
+    "BridgeUploaderSrv.exe"
 };
 
 // The "unblockall" feature will delete all filters that are based on the custom filter name
