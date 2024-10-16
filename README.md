@@ -26,11 +26,10 @@ The tool currently supports the following EDRs:
 - ESET Inspect
 - Harfanglab EDR
 - TrendMicro Apex One
-
-**As I do not have access to all these EDRs for testing, please do not hesitate to correct me if the listed processes (edrProcess in `EDRSilencer.c`) prove insufficient in blocking all alert, detection, or event forward traffic.**
+- Symantec EDR / SEPM
 
 ## Testing Environment
-Tested in Windows 10 and Windows Server 2016
+Tested in Windows 10 and Windows Server 2016. Admin rights are required to work with WPF filters.
 
 ## Usage
 ```
